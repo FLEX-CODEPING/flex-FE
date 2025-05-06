@@ -38,7 +38,7 @@
 
 | **최민규** | **강민재** | **김낙도** | 
 | :------: |  :------: | :------: |
-| [<img src="https://avatars.githubusercontent.com/u/99270060?v=4" height=150 width=150> <br/> @Minkyu0424](https://github.com/Minkyu0424) | [<img src="https://avatars.githubusercontent.com/u/144196895?v=4" height=150 width=150> <br/> @NAKDO](https://github.com/NAKDO) | [<img src="https://avatars.githubusercontent.com/u/91466601?v=4" height=150 width=150> <br/> @KMJ200](https://github.com/KMJ200) |
+| [<img src="https://avatars.githubusercontent.com/u/99270060?v=4" height=150 width=150> <br/> @Minkyu0424](https://github.com/Minkyu0424) | [<img src="https://avatars.githubusercontent.com/u/144196895?v=4" height=150 width=150> <br/> @KMJ200](https://github.com/KMJ200) | [<img src="https://avatars.githubusercontent.com/u/91466601?v=4" height=150 width=150> <br/> @NAKDO](https://github.com/NAKDO) |
 
 
 </div>
